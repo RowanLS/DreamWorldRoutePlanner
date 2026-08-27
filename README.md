@@ -9,7 +9,7 @@ Version	: 1.0
 Date 	: July 2024			
 
 ## Project Description
-This is a C++ project created for Nicholas Day's C++ Part 2: Data Structures and Algorithm course at the Department of Continuing Education, Oxford. . 
+This is a C++ project created for Nicholas Day's C++ Part 2: Data Structures and Algorithm course at the Department of Continuing Education, Oxford. It is a demonstration of C++ data structures and algorithms, not an actively maintained application.
 
 ## Project Scenario
 The route planner creates 100 settlements in a 100x100 unit sized world. 20% of the settlements are large settlements, e.g. citadels; 30% are medium size settlements, e.g. towns; and 50% are small sized settlements, e.g. hamlets.
