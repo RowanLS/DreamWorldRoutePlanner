@@ -1,3 +1,5 @@
+**Authorship Note**: This project was originally developed and submitted under my former name, *Emily Lindsay-Smith*. I now publish under *Rowan Lindsay-Smith*.
+
 # DreamWorld Route Planner
 
 Author	: Dr. Emily Lindsay-Smith	
